@@ -1,6 +1,6 @@
 # Hello 👋
 
-##**Best JS Framework**
+##BEST JS FRAMEWORK
 >**Vue.js 💖**
 
 ## GITHUB STATS
