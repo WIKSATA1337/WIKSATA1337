@@ -1,7 +1,7 @@
 # Hello 👋
 
-**BEST JS FRAMEWORK**
->**Vue.js 💖**
+<!-- **BEST JS FRAMEWORK**
+>**Vue.js 💖** -->
 
 ## GITHUB STATS
 
