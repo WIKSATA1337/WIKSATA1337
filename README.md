@@ -1,3 +1,5 @@
+# Welcome to my GitHub page!
+
 - 🔭 I’m currently working on improving my skills
 - 🌱 I’m currently learning deeply JavaScript
 - 👯 I’m looking to collaborate on everything
